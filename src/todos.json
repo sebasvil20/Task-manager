@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "title": "Tarea de ejemplo 1",
+      "responsible": "Mark",
+      "description": "descripcion de ejemplo 1",
+      "priority": "low"
+    },
+    {
+      "title": "Tarea de ejemplo 2",
+      "responsible": "Jesus",
+      "description": "descripcion de ejemplo 2",
+      "priority": "medium"
+    },
+    {
+      "title": "Tarea de ejemplo 3",
+      "responsible": "Maria",
+      "description": "descripcion de ejemplo 3",
+      "priority": "high"
+    }
+  ]
+}
